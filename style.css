@@ -1,0 +1,180 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: system-ui;
+}
+
+*::before, *::after {
+  box-sizing: inherit;
+}
+
+span, a, label {
+  display: inline-block;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.all {
+  background-color: #C4E0FA;
+  max-width: 100%;
+  min-height: 641px;
+  padding: 20px;
+}
+
+.box {
+  width: 40%;
+  background-color: white;
+  margin: auto;
+}
+
+.part1 {
+  background-color: blue;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.i {
+  color: red;
+}
+
+.qqq {
+  width: 30%;
+  height: 3px;
+  background-color: wheat;
+}
+
+.www {
+  color: black;
+}
+
+.part2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+}
+
+.boshqa {
+  background-color: white;
+  padding: 10px;
+}
+
+.bbb {
+  padding: 20px;
+  background-color: wheat;
+  width: 70%;
+  border-radius: 15px;
+  font-family: cursive;
+  position: relative;
+}
+
+.ii {
+  position: absolute;
+  left: -7px;
+  top: 0px;
+  color: wheat;
+  font-size: 30px;
+}
+
+.bbb2 {
+  padding: 20px;
+  background-color: aqua;
+  width: 70%;
+  margin-left: auto;
+  border-radius: 15px;
+  font-family: cursive;
+  position: relative;
+}
+
+.spnq {
+  margin-left: 450px;
+}
+
+.ii2 {
+  position: absolute;
+  right: -7px;
+  top: 0px;
+  color: aqua;
+  font-size: 30px;
+}
+
+.part4 {
+  margin-left: auto;
+  padding: 10px;
+}
+
+.part3 {
+  padding: 10px;
+}
+
+.part5 {
+  padding: 10px;
+}
+
+.bbb3 {
+  padding: 20px;
+  background-color: wheat;
+  width: 30%;
+  border-radius: 15px;
+  font-family: cursive;
+  position: relative;
+}
+
+.part6 {
+  padding: 20px;
+  background-color: red;
+  width: 90%;
+  margin: auto;
+  color: white;
+  border-bottom: 2px solid silver;
+}
+
+.inp {
+  width: 100%;
+  padding: 10px;
+}
+
+.nnn {
+  width: 80%;
+}
+
+.mmm {
+  width: 20%;
+}
+
+.btn {
+  color: olive;
+  font-weight: bold;
+  font-size: 23px;
+  background: transparent;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+}
+
+.part7 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+}
+
+.hammasi {
+  overflow: hidden;
+  height: 450px;
+  overflow: auto;
+}/*# sourceMappingURL=style.css.map */
